@@ -1,0 +1,27 @@
+Font:
+Audiowide-Regular.ttf, google fonts
+
+Ascii generator
+http://patorjk.com/software/taag/#p=testall&f=Graffiti&t=Compumax%0Ais%0Aback
+
+Mercury:
+http://1chemistry10.blogspot.com.es/2010/09/mercury-is-element-80.html
+
+Texture Mercury:
+http://www.bbc.com/news/science-environment-21468172
+
+Images:
+http://www.dnaindia.com/scitech/report-mercury-shows-its-true-colours-1800568
+http://news.discovery.com/space/marvelous-mercury-nasa-messenger-probe-130222.htm
+
+Mercuri reflections:
+http://onlineluxury.wordpress.com/2011/07/17/artemide-mercury-by-ross-lovegrove/
+
+ASCII:
+http://www.ecowin.org/ascii.htm
+
+cube n explosion:
+http://tmlife.net/programming/javascript/tmlib-js-animationsprite-top-forwarding-animation.html
+
+Font generator:
+http://es.cooltext.com/Logo-Design?LogoID=1099383914&1099383914_Gradient1=Fire_Animation
